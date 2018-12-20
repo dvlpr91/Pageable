@@ -1,5 +1,5 @@
 {
-  "name": "pageable",
+  "name": "dvlpr91-pageable",
   "version": "0.6.1",
   "description": "Create full page scrolling web pages. No jQuery.",
   "main": "dist/pageable.min.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mobius1/Pageable.git"
+    "url": "git+https://github.com/dvlpr91/Pageable.git"
   },
   "keywords": [
     "slider"
   ],
-  "author": "Karl Saunders",
+  "author": "Saunders",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Mobius1/Pageable/issues"
